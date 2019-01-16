@@ -1,0 +1,6 @@
+class StackNavigator {
+}
+
+export {
+  StackNavigator,
+};
